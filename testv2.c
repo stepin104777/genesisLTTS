@@ -2,6 +2,8 @@
 #include <string.h>
 #include <math.h>
 #include <stdlib.h>
+#include <CUnit/Basic.h>
+#include <CUnit/CUnit.h>
 
 int main() {
   int n,i,j,count=0;
